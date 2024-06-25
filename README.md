@@ -7,6 +7,6 @@ For presented posters and presentations
 
 For Osmiza, there is the pdf `Information-osmiza.pdf`.
 It will happen more probably Thursday 27th at 19.30, Azienda Agricole Verginella.
-Bus 42 or 44 from piazza Oberdan.
+Bus 42 or 44 from piazza Oberdan, stop at localita Contovello, and 5-10min to walk.
 
 
