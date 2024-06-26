@@ -10,3 +10,21 @@ It will happen more probably Thursday 27th at 19.30, Azienda Agricole Verginella
 Bus 42 or 44 from piazza Oberdan, stop at localita Contovello, and 5-10min to walk.
 
 
+# Presentations:
+
+Monday:
+ - Normand Mousseau: [file: 1-Mousseau-TST.pdf](./1-Mousseau-TST.pdf)
+ - Hannes Jonsson: [url](https://hj.hi.is/TriesteCECAM-Lecture1.pdf)
+
+Tuesday:
+ - Anne Hemeryck:
+ - Sebastian Matera:
+
+Wednesday:
+- Hannes Jonsson: [url](https://hj.hi.is/TriesteCECAM-Lecture2.pdf)
+
+Thursday:
+- Peter Bolhuis:
+
+Friday:
+- Thomas Schuler:
