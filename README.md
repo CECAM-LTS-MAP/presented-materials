@@ -25,6 +25,7 @@ Wednesday:
 
 Thursday:
 - Peter Bolhuis:
+- Nicolas Salles (informal talk): [pdf](./Modular_kMC-Fortran.pdf)
 
 Friday:
-- Thomas Schuler:
+- Thomas Schuler: [pdf](./SCHULER_DIFFUSION_280624.pdf)
