@@ -15,10 +15,9 @@ Bus 42 or 44 from piazza Oberdan, stop at localita Contovello, and 5-10min to wa
 Monday:
  - Normand Mousseau: [file: 1-Mousseau-TST.pdf](./1-Mousseau-TST.pdf)
  - Hannes Jonsson: [url](https://hj.hi.is/TriesteCECAM-Lecture1.pdf)
-
 Tuesday:
  - Anne Hemeryck:
- - Sebastian Matera:
+ - Sebastian Matera:[url](./lecture_Matera.pdf)
 
 Wednesday:
 - Hannes Jonsson: [url](https://hj.hi.is/TriesteCECAM-Lecture2.pdf)
